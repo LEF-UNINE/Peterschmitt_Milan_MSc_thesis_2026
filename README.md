@@ -1,6 +1,6 @@
 Milan_Peterschmitt_MSc_thesis_2026
 
-**Repository description (for GitHub):**  
+**description:**  
 Milan Peterschmitt, supervised by Sergio Rasmann (2025-2026, UniNE). Thesis on how land use, habitat structures and climate shape micromammal abundance in the Swiss Alps, using Faune Concept capture data and species-level models on 11 species.
 
 1. Overview
